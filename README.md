@@ -4,9 +4,12 @@ This snippet renders some localities across the world over a mapbox instance usi
 
 ## Setup
 
+```
 git clone https://github.com/alexandre-eisenmann/mapplay.git
 cd mapplay
-open index.html in your browser
+open index.html
+```
+
 
 ## Task
 

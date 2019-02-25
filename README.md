@@ -13,7 +13,7 @@ open index.html
 
 ## Task
 
-Your task is to update index.html enhancing this example trough the following steps:
+Your task is to update index.html enhancing this example through the following steps:
 
 1) Make the radius of the dots proportional to the population of the locality (pop_max attribute)
 2) Add an extra panel to present the name of the locality and some extra info you choose. The panel should be updated when the user hover a particular location. 

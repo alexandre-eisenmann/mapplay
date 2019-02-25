@@ -1,6 +1,6 @@
 # Map Test
 
-This snippet renders some localities across the world over a mapbox instance using d3. The code was based on the http://bl.ocks.org/enjalot/0d87f32a1ccb9a720d29ba74142ba365 example and the data from http://enjalot.github.io/wwsd/data/world/ne_50m_populated_places_simple.geojson
+This snippet renders some localities across the world over a mapbox instance using d3. The code was based (but is not the same please refer to index.html in this repository) on the http://bl.ocks.org/enjalot/0d87f32a1ccb9a720d29ba74142ba365 example and the data from http://enjalot.github.io/wwsd/data/world/ne_50m_populated_places_simple.geojson
 
 ## Setup
 

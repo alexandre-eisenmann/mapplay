@@ -73,12 +73,8 @@
                 .attr("cy", d => projection(d.geometry.coordinates)[1])
         }
         // re-render our visualization whenever the view changes
-        map.on("viewreset", function() {
-            render()
-        })
-        map.on("move", function() {
-            render()
-        })
+        map.on("viewreset", render)
+        map.on("move", render)
         // render our initial visualization
         render()
     })
